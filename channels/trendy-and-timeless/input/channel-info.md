@@ -16,6 +16,9 @@ Kênh mới — chưa đăng video, đang chuẩn bị. Cần điền thông tin
   - https://www.youtube.com/@EverWiseOlderWomen/videos
   - https://www.youtube.com/@VivianSinclairStyle
   - https://www.youtube.com/@OutfitsWear-yt/videos
+  - https://www.youtube.com/@agewithstyle
+  - https://www.youtube.com/@Stylish60plus
+  - https://www.youtube.com/@CaminodelosAncianos (⚠️ kênh tiếng Tây Ban Nha — cùng công thức/chủ đề nhưng khác ngôn ngữ, không dùng để tham khảo tiêu đề/thumbnail chữ, chỉ tham khảo cấu trúc/công thức chung)
 
 ## Việc cần làm tiếp
 - Điền đầy đủ thông tin ở trên.
