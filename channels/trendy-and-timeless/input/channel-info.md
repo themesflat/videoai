@@ -11,7 +11,11 @@ Kênh mới — chưa đăng video, đang chuẩn bị. Cần điền thông tin
 - **Thị trường mục tiêu:** (thị trường mỹ US view chính Mỹ)
 - **Phương thức sản xuất:** (AI tạo hình tạo content người that tạo cover và edit video)
 - **Phong cách thương hiệu:** (tông màu, giọng văn, điểm khác biệt so với Soft Chic 60+ và các kênh khác)
-- **Đối thủ/kênh tham khảo đã biết (nếu có):** (https://www.youtube.com/@chicafter60/videos)
+- **Đối thủ/kênh tham khảo đã biết (nếu có):**
+  - https://www.youtube.com/@chicafter60/videos
+  - https://www.youtube.com/@EverWiseOlderWomen/videos
+  - https://www.youtube.com/@VivianSinclairStyle
+  - https://www.youtube.com/@OutfitsWear-yt/videos
 
 ## Việc cần làm tiếp
 - Điền đầy đủ thông tin ở trên.
