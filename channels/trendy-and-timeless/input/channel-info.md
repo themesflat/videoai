@@ -5,13 +5,13 @@ Kênh mới — chưa đăng video, đang chuẩn bị. Cần điền thông tin
 
 ## Thông tin kênh (điền vào đây)
 - **Handle:** (chưa có)
-- **Link:** (chưa có)
+- **Link:** https://www.youtube.com/@TrendyTimeless
 - **Mô tả kênh:** (viết mô tả/giới thiệu kênh dự kiến sẽ dùng)
-- **Ngách:** (ví dụ: thời trang phụ nữ độ tuổi nào, phong cách gì — "Trendy & Timeless" gợi ý hướng kết hợp xu hướng mới + món đồ kinh điển, cần xác nhận đối tượng cụ thể)
-- **Thị trường mục tiêu:** (quốc gia, view chính từ đâu)
-- **Phương thức sản xuất:** (AI hay người thật, hay kết hợp)
+- **Ngách:** (ví dụ: thời trang phụ nữ độ tuổi u50 trở lên, phong cách gì — "Trendy & Timeless" gợi ý hướng kết hợp xu hướng mới + món đồ kinh điển, cần xác nhận đối tượng cụ thể)
+- **Thị trường mục tiêu:** (thị trường mỹ US view chính Mỹ)
+- **Phương thức sản xuất:** (AI tạo hình tạo content người that tạo cover và edit video)
 - **Phong cách thương hiệu:** (tông màu, giọng văn, điểm khác biệt so với Soft Chic 60+ và các kênh khác)
-- **Đối thủ/kênh tham khảo đã biết (nếu có):** (điền link nếu bạn đã có kênh muốn học theo)
+- **Đối thủ/kênh tham khảo đã biết (nếu có):** (https://www.youtube.com/@chicafter60/videos)
 
 ## Việc cần làm tiếp
 - Điền đầy đủ thông tin ở trên.

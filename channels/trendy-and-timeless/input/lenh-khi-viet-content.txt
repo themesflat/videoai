@@ -1,0 +1,50 @@
+Cho tôi bản tóm tắt kịch bản khác lạ hơn so với các kịch bản mà bạn đã viết cho tôi trước đó, vì tôi thấy dạo này youtube hay bóp view các kênh có dấu hiệu sản xuất hàng loạt, nội dung na ná nhau, dễ sản xuất, cấu trúc hao hao giống nhau, nên hãy cho tôi bản tóm tắt kịch bản thật đặc biệt, và câu hook mở đầu lạ, dễ hút view, dễ khiến khán giả tò mò và click, đặc biệt không được trùng và hao hao giống nhau với các câu hook khác mà bạn hay viết cho tôi. Đặc biệt cấu trúc làm sao cho bất cứ khán giả nào khi nghe đều phải thốt lên "Tôi chưa từng nghe một video AI nào tuyệt vời, hay và cảm xúc đến như vậy". Bạn phải đặt mình vào vị trí của 1 nhà thiết kế thời trang nổi tiếng để viết, phong cách nói chuyện cũng phải như 1 nhà  thiết kế thời trang hoặc nhà phê bình thời trang nổi tiếng để viếtd sao cho thật tinh tế nhé. Lưu ý: khán giả kênh tôi chủ yếu là phụ nữ lớn tuổi nên giọng văn phải sao cho dễ hiểu nhé, chứ nói sâu xa quá họ không hiểu gì. Chủ đề mà tôi cần bản tóm tắt là:  Stop Wearing Your Blazer Like This After 60
+
+
+
+
+
+
+Ok tốt lắm, bây giờ bám sát tóm tắt đó bắt đầu viết chi tiết từng phần nhé, viết bằng tiếng anh chuẩn Mỹ nhé, hãy ghi nhớ giọng văn mà tôi yêu cầu phải đóng vai là 1 nhà thiết kế thời trang có kinh nghiệm lâu năm trong nghề, giọng văn phù hợp và dễ hiểu cho đối tượng khán giả là phụ nữ lớn tuổi nhé, làm sao khi bất kỳ khán giả nào nghe đều phải thốt lên "Tôi chưa từng nghe một video AI nào tuyệt vời sâu sắc và hay đến như vậy", thêm yêu cầu nữa là cấu trúc content viết phải đảm bảo phù hợp với giọng đọc voice TTS elevenlab nhé, và đặc biệt khi viết xong mỗi phần cần giao tiếp thân thiện với tôi, nói cho tôi biết vừa viết xong phần nào dài bao nhiêu, tóm tắt nói về gì và sẽ viết tiếp cái gì, dài bao nhiêu từ. Bây giờ viết opening trước nhé, khoảng 220 từ
+
+
+
+
+
+
+Bây giờ cho tôi các câu lệnh tạo hình cho các phần, sau đây là các yêu cầu của tôi khi tạo câu lệnh tạo hình:
+- Phải luôn phản ánh đúng với nội dung của content từng phần
+- Bối cảnh và thời trang, quần áo bắt buộc phải là phù hợp với hiện đại, thời trang 2026, không tạo các mẫu cổ từ những thập niên cũ.
+- Người mẫu luôn là người Mỹ, có thể da màu hoặc da trắng nhưng bắt buộc phải là phụ nữ Mỹ và trên 60 tuổi. Câu lệnh nào có người mẫu xuất hiện thì phải luôn có cụm từ "American female model aged 60+" bằng tiếng Anh nhé(cái này để tránh tạo ra hình có người mẫu là nam).
+- Content nào nói về những item mà phụ nữ không nên mang thì cũng không nên tạo hình xấu quá mức quá lố nhé, chỉ là sai nhẹ hoặc không tinh tế thôi, vì thực tế không ai ăn mặc tới mức quá xấu ra đường. Đừng tạo kiểu như đang ông tóc xù, quần áo quá dơ bẩn nhìn như kiểu vô gia cư hay ăn xin.(Nhớ đừng tạo kiểu tóc xù quá mức hay quần áo dơ bẩn quá mức nha)
+- Người mẫu nên có vóc dáng giống thực tế chứ không phải ai cũng dáng chuẩn như người mẫu, vì đa số phụ nữ lớn tuổi không có ngoại hình đẹp như người mẫu, làm sao để phụ nữ lớn tuổi nhìn thấy hình mình họa thấy được hình ảnh của mình trong đó, chứ toàn người mẫu dáng đẹp thì họ lại không quan tâm mấy, vì người mẫu dáng đẹp thì mặc gì cũng đẹp rồi. Nên cần tạo hình người mẫu không cần hoàn hảo nhé, cần có người mập, có người ốm, có người thấp, có người cao, người xấu, đẹp, đa dạng nhé. Thí dụ cứ khoảng 2 3 tấm người mập thì có 1 tấm người cân đối chẳng hạn, vì tỉ lệ người mập giờ nhiều hơn người cân đối.
+- Màu tóc thì thêm cả màu đen, nâu... vào để đa dạng nhé, chủ yếu màu trắng nhưng không hoàn toàn nhé, không phải ai già cũng để tóc trắng.
+- Khi tạo hãy dùng các ý tưởng sau để làm cho đa dạng hình:
+1. Split Layout (RẤT HIỆU QUẢ)
+👉 1 bên lifestyle – 1 bên sản phẩm
+Bố cục:
+Trái: người mẫu đang mặc outfit
+Phải: item (túi / giày / áo) chụp rõ
+👉 Dùng khi:
+Bạn muốn người xem “mua được”
+👉 Đây là layout các brand lớn dùng rất nhiều
+2. Before / After (CỰC HÚT VIEW)
+👉 2 khung
+Trái: outfit bình thường
+Phải: outfit nâng cấp
+👉 Đánh vào tâm lý:
+“Ồ, tôi cũng có thể đẹp hơn”
+3. 3-Panel Story (Storytelling)
+
+👉 Tạo cảm giác “cuộc sống thật”
+4. Hero + Detail Zoom (RẤT PRO)
+👉 1 ảnh lớn + 1-2 ảnh nhỏ zoom
+Ảnh chính: full body
+Ảnh phụ: zoom túi, giày, chất liệu
+👉 Nhìn rất editorial / luxury
+
+Lưu ý: tạo hình đa dạng chứ không lặp lại các bối cảnh của các phần nhé, thí dụ câu lệnh 1 của phần 1 là bối cảnh ngồi uống cafe thì câu lệnh 1 của phần 2 phải là bối cảnh khác chứ không phải là ngồi quán cafe.
+
+Sau khi viết xong mỗi phần phải nói cho tôi biết vừa viết xong phần nào và sẽ viết tiếp phần nào.
+Mỗi phần tôi cần 20 câu lệnh nhưng mỗi lần hãy tạo cho tôi 10 câu để tôi duyệt rồi hãy tạo tiếp 10 câu tiếp theo để hoàn thành 1 phần nhé. Rồi sau đó mới đến 20 câu của phần tiếp theo.
+Bây giờ bắt đầu phần opening trước cho tôi nào. Riêng closing chỉ cần 10 prompt thôi nhé. Viết vào trong khung để tôi dễ copy
