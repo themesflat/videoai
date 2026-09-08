@@ -49,9 +49,13 @@ Font phải đẹp
 1 background nhẹ
 👉 Tạo cảm giác “high fashion concept”
 
+Số "phần" tính prompt hình = TOÀN BỘ các file content đã viết: Hook (1 phần) + Main Content (đúng N phần theo số trong tiêu đề) + Kết (1 phần). Ví dụ tiêu đề có số 7 → tổng 9 phần.
+Mỗi phần tôi cần 20 câu lệnh (vậy ví dụ trên = 9 phần x 20 = 180 câu lệnh tổng cộng).
 Sau khi viết xong mỗi phần phải nói cho tôi biết vừa viết xong phần nào và sẽ viết tiếp phần nào.
-Mỗi phần tôi cần 20 câu lệnh nhưng mỗi lần hãy tạo cho tôi 10 câu để tôi duyệt rồi hãy tạo tiếp 10 câu tiếp theo để hoàn thành 1 phần nhé. Rồi sau đó mới đến 20 câu của phần tiếp theo.
+Mỗi lần hãy tạo cho tôi 10 câu để tôi duyệt rồi hãy tạo tiếp 10 câu tiếp theo để hoàn thành 1 phần nhé (20 câu/phần). Rồi sau đó mới đến 20 câu của phần tiếp theo.
 Bây giờ bắt đầu phần đầu tiên cho tôi nào.
 Viết vào trong khung để tôi dễ copy
 không cần đánh số thứ tự đầu câu lệnh
 không cần tỉ lệ hình
+
+⚠️ QUY TẮC LƯU FILE: KHÔNG lưu riêng từng phần. Sau khi hoàn thành TẤT CẢ các phần (đủ 180 câu ở ví dụ trên), gộp toàn bộ prompt của mọi phần theo đúng thứ tự (Hook → Phần 1 → Phần 2 → ... → Kết) vào DUY NHẤT 1 file .txt (vd: [ten-video]_image-prompts-FULL.txt).

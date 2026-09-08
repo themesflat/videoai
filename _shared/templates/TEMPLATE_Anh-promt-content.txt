@@ -63,9 +63,15 @@ gợi tò mò
 Tổng: 1800–2200 từ
 Phần	Nội dung	Số từ
 Hook + Intro	Mở đầu cuốn hút	~200
-Main Content	5–8 phần	~1300–1600
-Emotional Peak	Đẩy cảm xúc	150–200
-CTA	Kêu gọi hành động	80–120
+Main Content	ĐÚNG số phần bằng con số trong tiêu đề (vd tiêu đề "7 Mistakes" → viết đúng 7 phần, không hơn không kém)	~1300–1600
+Kết (gộp Emotional Peak + CTA thành 1 phần duy nhất)	Đẩy cảm xúc lên đỉnh rồi chuyển mượt sang kêu gọi hành động	~230–320
+
+⚠️ QUAN TRỌNG — QUY TẮC LƯU FILE:
+Mỗi phần lưu riêng thành 1 file .txt, không gộp chung.
+Tổng số file = 1 (Hook) + N (Main Content, N = số trong tiêu đề) + 1 (Kết).
+Ví dụ tiêu đề có số 7 → 1 + 7 + 1 = 9 file .txt.
+Đặt tên file theo thứ tự: 00-hook.txt, 01-phan-1.txt, 02-phan-2.txt, ... 0N-phan-N.txt, (N+1)-ket.txt.
+
 6. Breakdown Main Content
 
 Với mỗi phần:
@@ -100,11 +106,11 @@ tinh tế
 đồng cảm
 truyền cảm hứng
 🧱 CẤU TRÚC
-1. Hook + Intro (~200 từ)
+1. Hook + Intro (~200 từ) → lưu riêng file 00-hook.txt
 Chạm cảm xúc ngay
 Không quá “shock”, mà là “chạm”
 Tạo cảm giác: “video này nói về mình”
-2. Main Content (5–8 phần)
+2. Main Content (ĐÚNG số phần bằng con số trong tiêu đề, mỗi phần → 1 file .txt riêng: 01-phan-1.txt, 02-phan-2.txt...)
 
 Mỗi phần:
 
@@ -119,7 +125,8 @@ Kết nối mượt sang phần sau
 
 Không làm người xem cảm thấy bị chê
 Phải khiến họ cảm thấy được thấu hiểu
-3. Emotional Peak (150–200 từ)
+3. Kết (~230–320 từ, gộp Emotional Peak + CTA thành 1 đoạn văn liền mạch duy nhất) → lưu riêng 1 file .txt cuối cùng
+3a. Emotional Peak (150–200 từ, viết trước, không xuống dòng tách riêng)
 Nâng tầm:
 vẻ đẹp trưởng thành
 sự tự tin
@@ -128,10 +135,12 @@ giá trị bản thân
 👉 Không nói về “trẻ lại”
 👉 Mà nói về “đẹp hơn theo cách khác”
 
-4. CTA (80–120 từ)
+3b. CTA (80–120 từ, nối tiếp mượt ngay sau Emotional Peak trong cùng file)
 Nhẹ nhàng
 Tinh tế
 Gợi mở hành trình phát triển bản thân
+
+⚠️ Nhắc lại: TOÀN BỘ kịch bản lưu thành nhiều file .txt riêng biệt theo cấu trúc trên (Hook = 1 file, mỗi Main Content = 1 file, Kết = 1 file), KHÔNG gộp chung thành 1 file duy nhất.
 🔥 NGUYÊN TẮC VÀNG
 Nội dung phải “cảm” trước khi “đúng”
 Luôn có sự đồng cảm
