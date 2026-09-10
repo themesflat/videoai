@@ -3,7 +3,19 @@
 ## Trạng thái
 Kênh mới — chưa đăng video, đang chuẩn bị. Cần điền thông tin bên dưới trước khi bắt đầu nghiên cứu/lên kế hoạch.
 
-## Thông tin kênh (điền vào đây)
+## Thông tin kênh (Trendy & Timeless
+ is a style and confidence channel created for women who believe elegance doesn’t expire with age.
+
+Here, we explore timeless fashion, flattering outfits, smart style choices, and confidence-boosting tips designed especially for women over 50 who want to look polished, modern, and effortlessly chic.
+
+This channel is about:
+Dressing beautifully for the body you have now.
+Choosing clothes that elevate, not age you.
+Avoiding common style mistakes after 50.
+Embracing confidence, grace, and personal style at every stage of life.
+
+Whether you’re refining your wardrobe, rediscovering your sense of style, or simply looking for inspiration,Trendy & Timeless
+ is your space for elegant aging with confidence.)
 - **Handle:** (chưa có)
 - **Link:** https://www.youtube.com/@TrendyTimeless
 - **Mô tả kênh:** (viết mô tả/giới thiệu kênh dự kiến sẽ dùng)
@@ -11,14 +23,7 @@ Kênh mới — chưa đăng video, đang chuẩn bị. Cần điền thông tin
 - **Thị trường mục tiêu:** (thị trường mỹ US view chính Mỹ)
 - **Phương thức sản xuất:** (AI tạo hình tạo content người that tạo cover và edit video)
 - **Phong cách thương hiệu:** (tông màu, giọng văn, điểm khác biệt so với Soft Chic 60+ và các kênh khác)
-- **Đối thủ/kênh tham khảo đã biết (nếu có):**
-  - https://www.youtube.com/@chicafter60/videos
-  - https://www.youtube.com/@EverWiseOlderWomen/videos
-  - https://www.youtube.com/@VivianSinclairStyle
-  - https://www.youtube.com/@OutfitsWear-yt/videos
-  - https://www.youtube.com/@agewithstyle
-  - https://www.youtube.com/@Stylish60plus
-  - https://www.youtube.com/@CaminodelosAncianos (⚠️ kênh tiếng Tây Ban Nha — cùng công thức/chủ đề nhưng khác ngôn ngữ, không dùng để tham khảo tiêu đề/thumbnail chữ, chỉ tham khảo cấu trúc/công thức chung)
+- **Đối thủ/kênh tham khảo đã biết (nếu có):** (https://www.youtube.com/@chicafter60/videos)
 
 ## Việc cần làm tiếp
 - Điền đầy đủ thông tin ở trên.

@@ -24,5 +24,6 @@ _shared/                       # Dữ liệu dùng chung cho nhiều kênh
 ## Danh sách kênh hiện tại
 1. **Soft Chic 60+** (`channels/soft-chic-60/`) — kênh đang hoạt động, đang trong quá trình cải tiến.
 2. **Trendy & Timeless** (`channels/trendy-and-timeless/`) — kênh mới, chuẩn bị làm, đang chờ điền thông tin mô tả.
+3. **Viva Estilo** (`channels/viva-estilo/`) — kênh đang hoạt động, thời trang phụ nữ **tiếng Tây Ban Nha** 50+/60+/70+. Nội dung/tiêu đề viết bằng tiếng Tây Ban Nha. Nghiên cứu đối chiếu chỉ giới hạn khán giả tiếng Anh + tiếng Tây Ban Nha. Xuất Excel: chỉ khi người dùng ra lệnh, mỗi tuần 2 tiêu đề.
 
 Khi thêm kênh mới: tạo folder `channels/<ten-kenh-viet-thuong-khong-dau>/input/channel-info.md`, điền mô tả kênh, rồi bắt đầu nghiên cứu — dữ liệu đầu ra sẽ lưu vào `channels/<ten-kenh>/output/`.
