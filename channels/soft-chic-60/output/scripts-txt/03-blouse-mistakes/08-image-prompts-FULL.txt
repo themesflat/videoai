@@ -1,160 +1,175 @@
-1	Female model over 60 buttoning a blouse in a sunlit bedroom before heading out to lunch, morning light, realistic lifestyle photography, no text in image
-2	Close-up of Female model over 60 catching her own reflection in a shop window mid-afternoon with a slightly puzzled expression, realistic street lifestyle photography, no text in image
-3	Female model over 60 sitting at an outdoor cafe table with a coffee, wearing a blouse, soft daylight, realistic lifestyle photography, no text in image
-4	Floating collection of five blouses in different colors arranged in a row on a soft neutral background, minimalist editorial flat lay photography, no text in image
-5	Female model over 60 standing in her closet doorway holding two different blouses, thoughtful expression, warm interior light, realistic lifestyle photography, no text in image
-6	Three panel vertical story, first panel Female model over 60 getting dressed in the morning, second panel choosing a blouse from the closet, third panel adjusting it before a mirror, warm soft lighting, realistic lifestyle photography, no text in image
-7	Moodboard style layout with a soft blouse fabric swatch, a small mirror fragment reflection, and warm neutral tones, editorial concept, no text in image
-8	Portrait of Female model over 60 glancing thoughtfully at her own reflection, clean neutral background, soft natural light, editorial magazine style, no text in image
-9	Female model over 60 having a candid photo taken by a friend at a lunch table, wearing a blouse, unaware smile, realistic candid photography, no text in image
-10	Close-up of Female model over 60 studying a photo on her phone screen, faint frown, soft indoor light, realistic lifestyle photography, no text in image
-11	Wide shot of Female model over 60 reflected in a shop window, full body, afternoon street scene, realistic lifestyle photography, no text in image
-12	Female model over 60 walking back to her car after coffee with a friend, wearing a blouse, soft daylight, realistic lifestyle photography, no text in image
-13	Close-up detail of soft blouse fabric texture and buttons, neutral warm background, editorial product photography, no text in image
-14	Female model over 60 standing in her bedroom mirror doing a final outfit check before leaving, warm morning light, realistic lifestyle photography, no text in image
-15	Female model over 60 walking through a sunlit courtyard, seen from behind, wearing a blouse, golden hour light, realistic lifestyle photography, no text in image
-16	Close-up of Female model over 60's hands smoothing down the front of her blouse, soft natural light, realistic lifestyle photography, no text in image
-17	Editorial portrait of Female model over 60, thoughtful neutral expression, clean studio background, soft light, no text in image
-18	Female model over 60 sitting across from a friend at lunch, wearing a blouse, warm daylight, realistic lifestyle photography, no text in image
-19	Close-up of Female model over 60 touching her collar self-consciously while looking in a small mirror, soft window light, realistic lifestyle photography, no text in image
-20	Establishing wide shot of Female model over 60 standing confidently on a sunny sidewalk in a blouse and tailored trousers, golden light, realistic lifestyle photography, no text in image
-21	Female model over 60 standing before a mirror in a boxy oversized blouse with no visible waistline, neutral expression, natural light, realistic lifestyle photography, no text in image
-22	Split screen image, left side Female model over 60 in a boxy oversized blouse with no waistline, right side the same model with the blouse half-tucked and a thin belt at the waist, natural light, realistic photography, labeled only Before and After, no other text or icons
-23	Close-up of Female model over 60 tucking the front hem of a blouse into her trousers, soft window light, realistic lifestyle photography, no text in image
-24	Floating thin belt beside a folded blouse on a clean neutral background, minimalist editorial product photography, no text in image
-25	Female model over 60 full body shot wearing a half-tucked blouse with a thin belt at the waist, confident natural pose, editorial fashion photography, no text in image
-26	Hero shot of Female model over 60 full body in a belted blouse, with a small zoomed inset detail of the belt, editorial fashion photography, no text in image
-27	Three panel vertical story, first panel Female model over 60 in a boxy blouse, second panel tucking the front hem, third panel adding a thin belt while looking in a mirror, warm soft lighting, realistic lifestyle photography, no text in image
-28	Split screen close-up image, left side a wide shapeless blouse silhouette, right side the same blouse half-tucked with a defined waist, clean studio background, labeled only Before and After, no other text or icons
-29	Close-up of loose boxy blouse fabric hanging flat from shoulder to hip with no shape, neutral light, realistic detail photography, no text in image
-30	Female model over 60 at the office in a half-tucked blouse with a thin belt at the waist, soft daylight, realistic lifestyle photography, no text in image
-31	Female model over 60 on a casual weekend outing, blouse half-tucked into jeans with a thin belt, natural daylight, realistic lifestyle photography, no text in image
-32	Female model over 60 dressed for an evening dinner, a belted blouse with a defined waist, warm ambient light, realistic lifestyle photography, no text in image
-33	Female model over 60 standing before a mirror fastening a thin belt over her blouse, warm interior light, realistic lifestyle photography, no text in image
-34	Close-up of Female model over 60's hands adjusting a thin belt at her natural waist, soft natural light, realistic lifestyle photography, no text in image
-35	Female model over 60 walking through a sunlit courtyard, blouse half-tucked with a defined waist, golden light, realistic lifestyle photography, no text in image
-36	Floating thin belt in a warm tone beside a neatly folded blouse, minimalist editorial flat lay photography, no text in image
-37	Female model over 60 sitting at a cafe table, half-tucked belted blouse visible, soft daylight, realistic lifestyle photography, no text in image
-38	Moodboard style layout with a thin belt detail, a soft blouse fabric swatch, and warm neutral tones, editorial concept, no text in image
-39	Elegant portrait of Female model over 60, full body, belted blouse with a defined waist, composed confident expression, clean neutral background, editorial magazine style, no text in image
-40	Close-up candid smile of Female model over 60 glancing down at her own belted waistline with satisfaction, soft warm light, realistic lifestyle photography, no text in image
-41	Female model over 60 wearing a blouse buttoned all the way to the top, hand at her throat, slightly stiff expression, natural light, realistic portrait photography, no text in image
-42	Split screen image, left side close-up of Female model over 60 in a blouse buttoned to the top, right side the same model with the top button open and a softer expression, natural light, realistic photography, labeled only Before and After, no other text or icons
-43	Close-up of Female model over 60 undoing the top button of a blouse in front of a mirror, warm natural light, realistic lifestyle photography, no text in image
-44	Female model over 60 wearing a soft V-neck blouse with a thin gold necklace, gentle confident expression, soft natural light, realistic portrait photography, no text in image
-45	Floating soft V-neck blouse paired with a delicate gold necklace on a clean light background, editorial flat lay photography, no text in image
-46	Split screen close-up image, left side a tight buttoned collar pressing against the neck, right side an open collar with a relaxed, softer expression, soft studio light, labeled only Before and After, no other text or icons
-47	Elegant portrait of Female model over 60 in a soft open-collar blouse, confident composed expression, clean neutral background, editorial magazine style, no text in image
-48	Close-up of a blouse collar buttoned tightly to the throat, stiff fabric line, neutral light, realistic detail photography, no text in image
-49	Female model over 60 at the office in a soft V-neck blouse with the top button open, soft daylight, realistic lifestyle photography, no text in image
-50	Female model over 60 on a casual weekend outing, a relaxed open-collar blouse, natural daylight, realistic lifestyle photography, no text in image
-51	Female model over 60 dressed for an evening event, a soft scoop-neck blouse with a delicate necklace, warm ambient light, realistic lifestyle photography, no text in image
-52	Female model over 60 standing before a mirror comparing a buttoned-up collar against an open collar, warm interior light, realistic lifestyle photography, no text in image
-53	Close-up of Female model over 60's hands fastening a thin gold necklace at her open collar, soft natural light, realistic lifestyle photography, no text in image
-54	Female model over 60 laughing softly with an open, relaxed collar, natural candid lifestyle photography, no text in image
-55	Hero shot of Female model over 60 full body in a soft V-neck blouse, with a small zoomed inset detail of the necklace, editorial fashion photography, no text in image
-56	Floating thin gold necklace coiled beside a soft V-neck blouse, minimalist editorial flat lay photography, no text in image
-57	Three panel vertical story, first panel Female model over 60 buttoned to the top looking stiff, second panel undoing the top button, third panel smiling with a softened, open collar, warm soft lighting, realistic lifestyle photography, no text in image
-58	Female model over 60 sitting at a cafe, soft open-collar blouse and thin necklace visible, soft daylight, realistic lifestyle photography, no text in image
-59	Moodboard style layout with a soft V-neck fabric swatch, a thin gold necklace detail, and warm neutral tones, editorial concept, no text in image
-60	Close-up portrait of Female model over 60 smiling gently with a relaxed open collar, warm natural light, editorial magazine style, no text in image
-61	Female model over 60 standing in strong sunlight wearing a sheer blouse, checking her reflection with a slightly self-conscious look, realistic lifestyle photography, no text in image
-62	Split screen image, left side Female model over 60 in a sheer blouse with a visibly mismatched layer underneath, right side the same model with a seamless skin-toned camisole underneath, natural light, realistic photography, labeled only Before and After, no other text or icons
-63	Close-up of Female model over 60 smoothing a seamless camisole under a sheer blouse, soft window light, realistic lifestyle photography, no text in image
-64	Floating seamless nude camisole folded beside a sheer blouse on a light background, minimalist editorial flat lay photography, no text in image
-65	Female model over 60 standing confidently in sunlight wearing a sheer blouse with the right layer underneath, soft daylight, realistic lifestyle photography, no text in image
-66	Close-up of a mismatched cami strap showing awkwardly through a sheer blouse in daylight, neutral light, realistic detail photography, no text in image
-67	Female model over 60 at the office in a sheer blouse layered seamlessly over a matching-tone camisole, soft daylight, realistic lifestyle photography, no text in image
-68	Female model over 60 on a casual weekend brunch, a breezy sheer blouse with a seamless layer underneath, natural daylight, realistic lifestyle photography, no text in image
-69	Female model over 60 dressed for an evening event, an elegant sheer blouse with a flawless seamless camisole beneath, warm ambient light, realistic lifestyle photography, no text in image
-70	Female model over 60 standing before a mirror choosing between a mismatched cami and a seamless nude one, warm interior light, realistic lifestyle photography, no text in image
-71	Close-up of Female model over 60's hands smoothing a seamless camisole strap under a sheer sleeve, soft natural light, realistic lifestyle photography, no text in image
-72	Hero shot of Female model over 60 full body in a sheer blouse, with a small zoomed inset detail of the seamless layering, editorial fashion photography, no text in image
-73	Three panel vertical story, first panel Female model over 60 in a sheer blouse with a visible mismatched strap, second panel changing into a seamless camisole, third panel standing confidently in strong sunlight, warm soft lighting, realistic lifestyle photography, no text in image
-74	Female model over 60 walking through a sunlit plaza, sheer blouse layered flawlessly, golden light, realistic lifestyle photography, no text in image
-75	Floating collection of seamless camisoles in several skin-matching tones, minimalist editorial flat lay photography, no text in image
-76	Female model over 60 sitting outdoors in bright sunlight, sheer blouse looking effortlessly elegant, soft daylight, realistic lifestyle photography, no text in image
-77	Moodboard style layout with a sheer blouse fabric swatch, a seamless camisole detail, and soft neutral tones, editorial concept, no text in image
-78	Split screen close-up image, left side a visible mismatched strap under sheer fabric, right side a seamless invisible layer under the same fabric, soft studio light, labeled only Before and After, no other text or icons
-79	Elegant portrait of Female model over 60, full body, sheer blouse layered seamlessly, composed confident expression, clean neutral background, editorial magazine style, no text in image
-80	Close-up candid smile of Female model over 60 standing confidently in strong sunlight, soft warm light, realistic lifestyle photography, no text in image
-81	Female model over 60 wearing a blouse with sleeves ending awkwardly at the widest part of the forearm, natural light, realistic portrait photography, no text in image
-82	Split screen image, left side Female model over 60 with a sleeve hem at the widest part of the forearm, right side the same model with the sleeve pushed higher to three-quarter length, natural light, realistic photography, labeled only Before and After, no other text or icons
-83	Close-up of Female model over 60 pushing up a blouse sleeve to three-quarter length, warm natural light, realistic lifestyle photography, no text in image
-84	Floating blouse with sleeve folded back neatly, displayed on a clean neutral background, minimalist editorial product photography, no text in image
-85	Female model over 60 gesturing while talking, sleeves at three-quarter length, natural candid lifestyle photography, no text in image
-86	Close-up of a sleeve hem sitting awkwardly at the widest part of the forearm, neutral light, realistic detail photography, no text in image
-87	Female model over 60 at the office in a blouse with sleeves pushed to a flattering three-quarter length, soft daylight, realistic lifestyle photography, no text in image
-88	Female model over 60 on a casual weekend outing, three-quarter sleeves rolled neatly, natural daylight, realistic lifestyle photography, no text in image
-89	Female model over 60 dressed for an evening event, a long-sleeve blouse elongating the arm elegantly, warm ambient light, realistic lifestyle photography, no text in image
-90	Female model over 60 standing before a mirror comparing a full sleeve against one pushed to three-quarter length, warm interior light, realistic lifestyle photography, no text in image
-91	Close-up of Female model over 60's hands folding back a sleeve cuff neatly, soft natural light, realistic lifestyle photography, no text in image
-92	Hero shot of Female model over 60 full body in a blouse with three-quarter sleeves, with a small zoomed inset detail of the elongated arm line, editorial fashion photography, no text in image
-93	Three panel vertical story, first panel Female model over 60 with a sleeve at the widest forearm point, second panel pushing it higher, third panel gesturing confidently with a leaner arm line, warm soft lighting, realistic lifestyle photography, no text in image
-94	Female model over 60 walking through a sunlit street, sleeves at a flattering three-quarter length, golden light, realistic lifestyle photography, no text in image
-95	Floating collection of blouse sleeves at different lengths, arranged to compare hem placement, minimalist editorial flat lay photography, no text in image
-96	Female model over 60 sitting at a cafe table, gesturing with three-quarter length sleeves, soft daylight, realistic lifestyle photography, no text in image
-97	Moodboard style layout with a rolled sleeve detail, a soft blouse fabric swatch, and neutral tones, editorial concept, no text in image
-98	Split screen close-up image, left side a sleeve hem at the widest forearm point, right side the same sleeve pushed higher with a leaner line, soft studio light, labeled only Before and After, no other text or icons
-99	Elegant portrait of Female model over 60, full body, three-quarter sleeve blouse, composed confident expression, clean neutral background, editorial magazine style, no text in image
-100	Close-up candid smile of Female model over 60 glancing down at her own elongated arm line, soft warm light, realistic lifestyle photography, no text in image
-101	Female model over 60 wearing a busy, bold-printed blouse close to her face, slightly overwhelmed expression, natural light, realistic portrait photography, no text in image
-102	Split screen image, left side Female model over 60 in a busy printed blouse, right side the same model in a solid color blouse with the print worn instead as a scarf, natural light, realistic photography, labeled only Before and After, no other text or icons
-103	Close-up of Female model over 60 draping a printed scarf over a plain solid blouse, soft window light, realistic lifestyle photography, no text in image
-104	Floating solid color blouse beside a bold printed scarf on a light neutral background, editorial flat lay photography, no text in image
-105	Elegant portrait of Female model over 60 in a solid blouse with a printed scarf accent, calm confident expression, clean neutral background, editorial magazine style, no text in image
-106	Close-up of a busy bold print blouse fabric pattern competing with the face above it, neutral light, realistic detail photography, no text in image
-107	Female model over 60 at the office in a solid color blouse with a printed scarf accent, soft daylight, realistic lifestyle photography, no text in image
-108	Female model over 60 on a casual weekend outing, a plain blouse paired with a bold printed scarf, natural daylight, realistic lifestyle photography, no text in image
-109	Female model over 60 dressed for an evening event, a solid blouse with a printed scarf draped elegantly, warm ambient light, realistic lifestyle photography, no text in image
-110	Female model over 60 standing before a mirror choosing between a busy printed blouse and a solid one with a scarf, warm interior light, realistic lifestyle photography, no text in image
-111	Close-up of Female model over 60's hands tying a printed scarf loosely around her neck over a solid blouse, soft natural light, realistic lifestyle photography, no text in image
-112	Hero shot of Female model over 60 full body in a solid blouse with a printed scarf, with a small zoomed inset detail of the scarf knot, editorial fashion photography, no text in image
-113	Three panel vertical story, first panel Female model over 60 in an overwhelming busy print blouse, second panel changing into a solid blouse, third panel adding the same print as a scarf accent, warm soft lighting, realistic lifestyle photography, no text in image
-114	Female model over 60 walking through a sunlit street, solid blouse and printed scarf accent, golden light, realistic lifestyle photography, no text in image
-115	Floating collection of a bold printed scarf styled three ways around a solid blouse, minimalist editorial flat lay photography, no text in image
-116	Female model over 60 sitting at a cafe table, solid blouse with a printed scarf accent, soft daylight, realistic lifestyle photography, no text in image
-117	Moodboard style layout with a bold print fabric swatch, a solid blouse color, and warm neutral tones, editorial concept, no text in image
-118	Split screen close-up image, left side a busy print crowding the face, right side a calm solid blouse with the print worn away from the face as a scarf, soft studio light, labeled only Before and After, no other text or icons
-119	Elegant portrait of Female model over 60, full body, solid blouse with a printed scarf, composed confident expression, clean neutral background, editorial magazine style, no text in image
-120	Close-up candid smile of Female model over 60 adjusting her printed scarf with satisfaction, soft warm light, realistic lifestyle photography, no text in image
-121	Female model over 60 in a crisp cotton blouse at nine in the morning, bright fresh light, realistic lifestyle photography, no text in image
-122	Split screen image, left side Female model over 60 in a wrinkled cotton blouse by early afternoon, right side the same model still crisp in a cotton-blend blouse at the same hour, natural light, realistic photography, labeled only Before and After, no other text or icons
-123	Close-up of Female model over 60's blouse fabric texture, smooth and unwrinkled, soft natural light, editorial product photography, no text in image
-124	Floating cotton-blend blouse folded neatly on a light background, minimalist editorial flat lay photography, no text in image
-125	Female model over 60 standing confidently in the late afternoon still looking crisp in her blouse, warm daylight, realistic lifestyle photography, no text in image
-126	Close-up of wrinkled, creased pure cotton blouse fabric by midday, neutral light, realistic detail photography, no text in image
-127	Female model over 60 at the office in a cotton-blend blouse still crisp by afternoon, soft daylight, realistic lifestyle photography, no text in image
-128	Female model over 60 on a casual weekend outing, a wrinkle-resistant blouse staying smooth all day, natural daylight, realistic lifestyle photography, no text in image
-129	Female model over 60 dressed for an evening event, a silk-blend blouse still crisp after a full day, warm ambient light, realistic lifestyle photography, no text in image
-130	Female model over 60 standing before a mirror comparing a wrinkled cotton blouse against a smooth cotton-blend one, warm interior light, realistic lifestyle photography, no text in image
-131	Close-up of Female model over 60's hands smoothing a crisp cotton-blend blouse with no wrinkles, soft natural light, realistic lifestyle photography, no text in image
-132	Hero shot of Female model over 60 full body in a crisp cotton-blend blouse, with a small zoomed inset detail of the smooth fabric, editorial fashion photography, no text in image
-133	Three panel vertical story, first panel Female model over 60 crisp in the morning, second panel wrinkled by noon in pure cotton, third panel still crisp in a cotton-blend blouse at the same hour, warm soft lighting, realistic lifestyle photography, no text in image
-134	Female model over 60 walking through a sunlit street in the late afternoon, blouse still perfectly crisp, golden light, realistic lifestyle photography, no text in image
-135	Floating collection of a pure cotton blouse and a cotton-blend blouse side by side for comparison, minimalist editorial flat lay photography, no text in image
-136	Female model over 60 sitting at a long meeting table in the afternoon, blouse still smooth and crisp, soft daylight, realistic lifestyle photography, no text in image
-137	Moodboard style layout with a cotton-blend fabric swatch, a smooth texture sample, and warm neutral tones, editorial concept, no text in image
-138	Split screen close-up image, left side creased wrinkled cotton fabric, right side smooth unwrinkled cotton-blend fabric, soft studio light, labeled only Before and After, no other text or icons
-139	Elegant portrait of Female model over 60, full body, crisp cotton-blend blouse, composed confident expression, clean neutral background, editorial magazine style, no text in image
-140	Close-up candid smile of Female model over 60 looking as fresh at the end of the day as she did that morning, soft warm light, realistic lifestyle photography, no text in image
-141	Elegant full body portrait of Female model over 60 standing confidently in a well-fitted, well-chosen blouse, calm radiant expression, clean neutral background, editorial magazine style, no text in image
-142	Close-up portrait of Female model over 60 smiling gently at her own reflection, soft warm light, realistic emotional photography, no text in image
-143	Floating collection of a thin belt, a delicate necklace, and a seamless camisole arranged on a soft neutral background, minimalist editorial product photography, no text in image
-144	Female model over 60 standing tall in a sunlit doorway wearing a half-tucked, belted blouse, calm confident posture, realistic lifestyle photography, no text in image
-145	Portrait of Female model over 60 against a clean neutral background, with tasteful minimal text reading Style After 60 in a refined serif font in the corner, soft natural light, editorial magazine style
-146	Female model over 60 standing in her closet doorway, surveying a few well-chosen blouses with a satisfied expression, warm interior light, realistic lifestyle photography, no text in image
-147	Elegant portrait of Female model over 60 in a soft blouse with a delicate necklace, confident composed expression, clean neutral background, editorial magazine style, no text in image
-148	Female model over 60 laughing candidly mid-conversation, well-fitted blouse, natural realistic lifestyle photography, no text in image
-149	Wide shot of Female model over 60 walking through a sunlit plaza, quiet confidence, well-fitted blouse, realistic lifestyle photography, no text in image
-150	Close-up of Female model over 60's hands giving a final smoothing touch to her blouse collar, warm light, realistic lifestyle photography, no text in image
-151	Three panel vertical story, first panel Female model over 60 choosing her blouse from the closet, second panel checking the mirror, third panel walking out the door with quiet confidence, warm soft lighting, realistic lifestyle photography, no text in image
-152	Female model over 60 sitting in a sunlit cafe, well-fitted belted blouse visible, relaxed confident posture, soft daylight, realistic lifestyle photography, no text in image
-153	Hero shot of Female model over 60 full body in her finished, put-together outfit, with a small zoomed inset detail of her necklace, editorial fashion photography, no text in image
-154	Low angle empowering shot of Female model over 60 standing tall in a well-fitted blouse, soft golden light, realistic lifestyle photography, no text in image
-155	Close-up genuine smile of Female model over 60 looking directly at the camera, warm natural light, editorial portrait photography, no text in image
-156	Female model over 60 standing confidently at a doorway about to step out, well-fitted blouse and tailored trousers, warm interior light, realistic lifestyle photography, no text in image
-157	Floating final moodboard of a thin belt, a delicate necklace, and a soft blouse fabric swatch arranged elegantly, editorial concept, no text in image
-158	Female model over 60 walking down a sunlit street with a friend, both dressed elegantly, candid realistic lifestyle photography, no text in image
-159	Final elegant wide portrait of Female model over 60, calm radiant confident expression, clean neutral background, editorial magazine style, no text in image
-160	Close-up portrait of Female model over 60 smiling warmly, soft golden hour light, editorial magazine style, no text in image
+===== 00-hook (20 prompts) =====
+Female model over 60 buttoning a blouse in a sunlit bedroom before heading out to lunch, morning light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60 catching her own reflection in a shop window mid-afternoon with a slightly puzzled expression, realistic street lifestyle photography, no text in image
+Female model over 60 sitting at an outdoor cafe table with a coffee, wearing a blouse, soft daylight, realistic lifestyle photography, no text in image
+Floating collection of five blouses in different colors arranged in a row on a soft neutral background, minimalist editorial flat lay photography, no text in image
+Female model over 60 standing in her closet doorway holding two different blouses, thoughtful expression, warm interior light, realistic lifestyle photography, no text in image
+Three panel vertical story, first panel Female model over 60 getting dressed in the morning, second panel choosing a blouse from the closet, third panel adjusting it before a mirror, warm soft lighting, realistic lifestyle photography, no text in image
+Moodboard style layout with a soft blouse fabric swatch, a small mirror fragment reflection, and warm neutral tones, editorial concept, no text in image
+Portrait of Female model over 60 glancing thoughtfully at her own reflection, clean neutral background, soft natural light, editorial magazine style, no text in image
+Female model over 60 having a candid photo taken by a friend at a lunch table, wearing a blouse, unaware smile, realistic candid photography, no text in image
+Close-up of Female model over 60 studying a photo on her phone screen, faint frown, soft indoor light, realistic lifestyle photography, no text in image
+Wide shot of Female model over 60 reflected in a shop window, full body, afternoon street scene, realistic lifestyle photography, no text in image
+Female model over 60 walking back to her car after coffee with a friend, wearing a blouse, soft daylight, realistic lifestyle photography, no text in image
+Close-up detail of soft blouse fabric texture and buttons, neutral warm background, editorial product photography, no text in image
+Female model over 60 standing in her bedroom mirror doing a final outfit check before leaving, warm morning light, realistic lifestyle photography, no text in image
+Female model over 60 walking through a sunlit courtyard, seen from behind, wearing a blouse, golden hour light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands smoothing down the front of her blouse, soft natural light, realistic lifestyle photography, no text in image
+Editorial portrait of Female model over 60, thoughtful neutral expression, clean studio background, soft light, no text in image
+Female model over 60 sitting across from a friend at lunch, wearing a blouse, warm daylight, realistic lifestyle photography, no text in image
+Close-up of Female model over 60 touching her collar self-consciously while looking in a small mirror, soft window light, realistic lifestyle photography, no text in image
+Establishing wide shot of Female model over 60 standing confidently on a sunny sidewalk in a blouse and tailored trousers, golden light, realistic lifestyle photography, no text in image
+
+===== 01-mistake-1-boxy-fit (20 prompts) =====
+Female model over 60 standing before a mirror in a boxy oversized blouse with no visible waistline, neutral expression, natural light, realistic lifestyle photography, no text in image
+Split screen image, left side Female model over 60 in a boxy oversized blouse with no waistline, right side the same model with the blouse half-tucked and a thin belt at the waist, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of Female model over 60 tucking the front hem of a blouse into her trousers, soft window light, realistic lifestyle photography, no text in image
+Floating thin belt beside a folded blouse on a clean neutral background, minimalist editorial product photography, no text in image
+Female model over 60 full body shot wearing a half-tucked blouse with a thin belt at the waist, confident natural pose, editorial fashion photography, no text in image
+Hero shot of Female model over 60 full body in a belted blouse, with a small zoomed inset detail of the belt, editorial fashion photography, no text in image
+Three panel vertical story, first panel Female model over 60 in a boxy blouse, second panel tucking the front hem, third panel adding a thin belt while looking in a mirror, warm soft lighting, realistic lifestyle photography, no text in image
+Split screen close-up image, left side a wide shapeless blouse silhouette, right side the same blouse half-tucked with a defined waist, clean studio background, labeled only Before and After, no other text or icons
+Close-up of loose boxy blouse fabric hanging flat from shoulder to hip with no shape, neutral light, realistic detail photography, no text in image
+Female model over 60 at the office in a half-tucked blouse with a thin belt at the waist, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 on a casual weekend outing, blouse half-tucked into jeans with a thin belt, natural daylight, realistic lifestyle photography, no text in image
+Female model over 60 dressed for an evening dinner, a belted blouse with a defined waist, warm ambient light, realistic lifestyle photography, no text in image
+Female model over 60 standing before a mirror fastening a thin belt over her blouse, warm interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands adjusting a thin belt at her natural waist, soft natural light, realistic lifestyle photography, no text in image
+Female model over 60 walking through a sunlit courtyard, blouse half-tucked with a defined waist, golden light, realistic lifestyle photography, no text in image
+Floating thin belt in a warm tone beside a neatly folded blouse, minimalist editorial flat lay photography, no text in image
+Female model over 60 sitting at a cafe table, half-tucked belted blouse visible, soft daylight, realistic lifestyle photography, no text in image
+Moodboard style layout with a thin belt detail, a soft blouse fabric swatch, and warm neutral tones, editorial concept, no text in image
+Elegant portrait of Female model over 60, full body, belted blouse with a defined waist, composed confident expression, clean neutral background, editorial magazine style, no text in image
+Close-up candid smile of Female model over 60 glancing down at her own belted waistline with satisfaction, soft warm light, realistic lifestyle photography, no text in image
+
+===== 02-mistake-2-high-collar (20 prompts) =====
+Female model over 60 wearing a blouse buttoned all the way to the top, hand at her throat, slightly stiff expression, natural light, realistic portrait photography, no text in image
+Split screen image, left side close-up of Female model over 60 in a blouse buttoned to the top, right side the same model with the top button open and a softer expression, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of Female model over 60 undoing the top button of a blouse in front of a mirror, warm natural light, realistic lifestyle photography, no text in image
+Female model over 60 wearing a soft V-neck blouse with a thin gold necklace, gentle confident expression, soft natural light, realistic portrait photography, no text in image
+Floating soft V-neck blouse paired with a delicate gold necklace on a clean light background, editorial flat lay photography, no text in image
+Split screen close-up image, left side a tight buttoned collar pressing against the neck, right side an open collar with a relaxed, softer expression, soft studio light, labeled only Before and After, no other text or icons
+Elegant portrait of Female model over 60 in a soft open-collar blouse, confident composed expression, clean neutral background, editorial magazine style, no text in image
+Close-up of a blouse collar buttoned tightly to the throat, stiff fabric line, neutral light, realistic detail photography, no text in image
+Female model over 60 at the office in a soft V-neck blouse with the top button open, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 on a casual weekend outing, a relaxed open-collar blouse, natural daylight, realistic lifestyle photography, no text in image
+Female model over 60 dressed for an evening event, a soft scoop-neck blouse with a delicate necklace, warm ambient light, realistic lifestyle photography, no text in image
+Female model over 60 standing before a mirror comparing a buttoned-up collar against an open collar, warm interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands fastening a thin gold necklace at her open collar, soft natural light, realistic lifestyle photography, no text in image
+Female model over 60 laughing softly with an open, relaxed collar, natural candid lifestyle photography, no text in image
+Hero shot of Female model over 60 full body in a soft V-neck blouse, with a small zoomed inset detail of the necklace, editorial fashion photography, no text in image
+Floating thin gold necklace coiled beside a soft V-neck blouse, minimalist editorial flat lay photography, no text in image
+Three panel vertical story, first panel Female model over 60 buttoned to the top looking stiff, second panel undoing the top button, third panel smiling with a softened, open collar, warm soft lighting, realistic lifestyle photography, no text in image
+Female model over 60 sitting at a cafe, soft open-collar blouse and thin necklace visible, soft daylight, realistic lifestyle photography, no text in image
+Moodboard style layout with a soft V-neck fabric swatch, a thin gold necklace detail, and warm neutral tones, editorial concept, no text in image
+Close-up portrait of Female model over 60 smiling gently with a relaxed open collar, warm natural light, editorial magazine style, no text in image
+
+===== 03-mistake-3-sheer-fabric (20 prompts) =====
+Female model over 60 standing in strong sunlight wearing a sheer blouse, checking her reflection with a slightly self-conscious look, realistic lifestyle photography, no text in image
+Split screen image, left side Female model over 60 in a sheer blouse with a visibly mismatched layer underneath, right side the same model with a seamless skin-toned camisole underneath, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of Female model over 60 smoothing a seamless camisole under a sheer blouse, soft window light, realistic lifestyle photography, no text in image
+Floating seamless nude camisole folded beside a sheer blouse on a light background, minimalist editorial flat lay photography, no text in image
+Female model over 60 standing confidently in sunlight wearing a sheer blouse with the right layer underneath, soft daylight, realistic lifestyle photography, no text in image
+Close-up of a mismatched cami strap showing awkwardly through a sheer blouse in daylight, neutral light, realistic detail photography, no text in image
+Female model over 60 at the office in a sheer blouse layered seamlessly over a matching-tone camisole, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 on a casual weekend brunch, a breezy sheer blouse with a seamless layer underneath, natural daylight, realistic lifestyle photography, no text in image
+Female model over 60 dressed for an evening event, an elegant sheer blouse with a flawless seamless camisole beneath, warm ambient light, realistic lifestyle photography, no text in image
+Female model over 60 standing before a mirror choosing between a mismatched cami and a seamless nude one, warm interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands smoothing a seamless camisole strap under a sheer sleeve, soft natural light, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body in a sheer blouse, with a small zoomed inset detail of the seamless layering, editorial fashion photography, no text in image
+Three panel vertical story, first panel Female model over 60 in a sheer blouse with a visible mismatched strap, second panel changing into a seamless camisole, third panel standing confidently in strong sunlight, warm soft lighting, realistic lifestyle photography, no text in image
+Female model over 60 walking through a sunlit plaza, sheer blouse layered flawlessly, golden light, realistic lifestyle photography, no text in image
+Floating collection of seamless camisoles in several skin-matching tones, minimalist editorial flat lay photography, no text in image
+Female model over 60 sitting outdoors in bright sunlight, sheer blouse looking effortlessly elegant, soft daylight, realistic lifestyle photography, no text in image
+Moodboard style layout with a sheer blouse fabric swatch, a seamless camisole detail, and soft neutral tones, editorial concept, no text in image
+Split screen close-up image, left side a visible mismatched strap under sheer fabric, right side a seamless invisible layer under the same fabric, soft studio light, labeled only Before and After, no other text or icons
+Elegant portrait of Female model over 60, full body, sheer blouse layered seamlessly, composed confident expression, clean neutral background, editorial magazine style, no text in image
+Close-up candid smile of Female model over 60 standing confidently in strong sunlight, soft warm light, realistic lifestyle photography, no text in image
+
+===== 04-mistake-4-sleeve-length (20 prompts) =====
+Female model over 60 wearing a blouse with sleeves ending awkwardly at the widest part of the forearm, natural light, realistic portrait photography, no text in image
+Split screen image, left side Female model over 60 with a sleeve hem at the widest part of the forearm, right side the same model with the sleeve pushed higher to three-quarter length, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of Female model over 60 pushing up a blouse sleeve to three-quarter length, warm natural light, realistic lifestyle photography, no text in image
+Floating blouse with sleeve folded back neatly, displayed on a clean neutral background, minimalist editorial product photography, no text in image
+Female model over 60 gesturing while talking, sleeves at three-quarter length, natural candid lifestyle photography, no text in image
+Close-up of a sleeve hem sitting awkwardly at the widest part of the forearm, neutral light, realistic detail photography, no text in image
+Female model over 60 at the office in a blouse with sleeves pushed to a flattering three-quarter length, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 on a casual weekend outing, three-quarter sleeves rolled neatly, natural daylight, realistic lifestyle photography, no text in image
+Female model over 60 dressed for an evening event, a long-sleeve blouse elongating the arm elegantly, warm ambient light, realistic lifestyle photography, no text in image
+Female model over 60 standing before a mirror comparing a full sleeve against one pushed to three-quarter length, warm interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands folding back a sleeve cuff neatly, soft natural light, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body in a blouse with three-quarter sleeves, with a small zoomed inset detail of the elongated arm line, editorial fashion photography, no text in image
+Three panel vertical story, first panel Female model over 60 with a sleeve at the widest forearm point, second panel pushing it higher, third panel gesturing confidently with a leaner arm line, warm soft lighting, realistic lifestyle photography, no text in image
+Female model over 60 walking through a sunlit street, sleeves at a flattering three-quarter length, golden light, realistic lifestyle photography, no text in image
+Floating collection of blouse sleeves at different lengths, arranged to compare hem placement, minimalist editorial flat lay photography, no text in image
+Female model over 60 sitting at a cafe table, gesturing with three-quarter length sleeves, soft daylight, realistic lifestyle photography, no text in image
+Moodboard style layout with a rolled sleeve detail, a soft blouse fabric swatch, and neutral tones, editorial concept, no text in image
+Split screen close-up image, left side a sleeve hem at the widest forearm point, right side the same sleeve pushed higher with a leaner line, soft studio light, labeled only Before and After, no other text or icons
+Elegant portrait of Female model over 60, full body, three-quarter sleeve blouse, composed confident expression, clean neutral background, editorial magazine style, no text in image
+Close-up candid smile of Female model over 60 glancing down at her own elongated arm line, soft warm light, realistic lifestyle photography, no text in image
+
+===== 05-mistake-5-busy-prints (20 prompts) =====
+Female model over 60 wearing a busy, bold-printed blouse close to her face, slightly overwhelmed expression, natural light, realistic portrait photography, no text in image
+Split screen image, left side Female model over 60 in a busy printed blouse, right side the same model in a solid color blouse with the print worn instead as a scarf, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of Female model over 60 draping a printed scarf over a plain solid blouse, soft window light, realistic lifestyle photography, no text in image
+Floating solid color blouse beside a bold printed scarf on a light neutral background, editorial flat lay photography, no text in image
+Elegant portrait of Female model over 60 in a solid blouse with a printed scarf accent, calm confident expression, clean neutral background, editorial magazine style, no text in image
+Close-up of a busy bold print blouse fabric pattern competing with the face above it, neutral light, realistic detail photography, no text in image
+Female model over 60 at the office in a solid color blouse with a printed scarf accent, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 on a casual weekend outing, a plain blouse paired with a bold printed scarf, natural daylight, realistic lifestyle photography, no text in image
+Female model over 60 dressed for an evening event, a solid blouse with a printed scarf draped elegantly, warm ambient light, realistic lifestyle photography, no text in image
+Female model over 60 standing before a mirror choosing between a busy printed blouse and a solid one with a scarf, warm interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands tying a printed scarf loosely around her neck over a solid blouse, soft natural light, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body in a solid blouse with a printed scarf, with a small zoomed inset detail of the scarf knot, editorial fashion photography, no text in image
+Three panel vertical story, first panel Female model over 60 in an overwhelming busy print blouse, second panel changing into a solid blouse, third panel adding the same print as a scarf accent, warm soft lighting, realistic lifestyle photography, no text in image
+Female model over 60 walking through a sunlit street, solid blouse and printed scarf accent, golden light, realistic lifestyle photography, no text in image
+Floating collection of a bold printed scarf styled three ways around a solid blouse, minimalist editorial flat lay photography, no text in image
+Female model over 60 sitting at a cafe table, solid blouse with a printed scarf accent, soft daylight, realistic lifestyle photography, no text in image
+Moodboard style layout with a bold print fabric swatch, a solid blouse color, and warm neutral tones, editorial concept, no text in image
+Split screen close-up image, left side a busy print crowding the face, right side a calm solid blouse with the print worn away from the face as a scarf, soft studio light, labeled only Before and After, no other text or icons
+Elegant portrait of Female model over 60, full body, solid blouse with a printed scarf, composed confident expression, clean neutral background, editorial magazine style, no text in image
+Close-up candid smile of Female model over 60 adjusting her printed scarf with satisfaction, soft warm light, realistic lifestyle photography, no text in image
+
+===== 06-mistake-6-wrinkles (20 prompts) =====
+Female model over 60 in a crisp cotton blouse at nine in the morning, bright fresh light, realistic lifestyle photography, no text in image
+Split screen image, left side Female model over 60 in a wrinkled cotton blouse by early afternoon, right side the same model still crisp in a cotton-blend blouse at the same hour, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of Female model over 60's blouse fabric texture, smooth and unwrinkled, soft natural light, editorial product photography, no text in image
+Floating cotton-blend blouse folded neatly on a light background, minimalist editorial flat lay photography, no text in image
+Female model over 60 standing confidently in the late afternoon still looking crisp in her blouse, warm daylight, realistic lifestyle photography, no text in image
+Close-up of wrinkled, creased pure cotton blouse fabric by midday, neutral light, realistic detail photography, no text in image
+Female model over 60 at the office in a cotton-blend blouse still crisp by afternoon, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 on a casual weekend outing, a wrinkle-resistant blouse staying smooth all day, natural daylight, realistic lifestyle photography, no text in image
+Female model over 60 dressed for an evening event, a silk-blend blouse still crisp after a full day, warm ambient light, realistic lifestyle photography, no text in image
+Female model over 60 standing before a mirror comparing a wrinkled cotton blouse against a smooth cotton-blend one, warm interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands smoothing a crisp cotton-blend blouse with no wrinkles, soft natural light, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body in a crisp cotton-blend blouse, with a small zoomed inset detail of the smooth fabric, editorial fashion photography, no text in image
+Three panel vertical story, first panel Female model over 60 crisp in the morning, second panel wrinkled by noon in pure cotton, third panel still crisp in a cotton-blend blouse at the same hour, warm soft lighting, realistic lifestyle photography, no text in image
+Female model over 60 walking through a sunlit street in the late afternoon, blouse still perfectly crisp, golden light, realistic lifestyle photography, no text in image
+Floating collection of a pure cotton blouse and a cotton-blend blouse side by side for comparison, minimalist editorial flat lay photography, no text in image
+Female model over 60 sitting at a long meeting table in the afternoon, blouse still smooth and crisp, soft daylight, realistic lifestyle photography, no text in image
+Moodboard style layout with a cotton-blend fabric swatch, a smooth texture sample, and warm neutral tones, editorial concept, no text in image
+Split screen close-up image, left side creased wrinkled cotton fabric, right side smooth unwrinkled cotton-blend fabric, soft studio light, labeled only Before and After, no other text or icons
+Elegant portrait of Female model over 60, full body, crisp cotton-blend blouse, composed confident expression, clean neutral background, editorial magazine style, no text in image
+Close-up candid smile of Female model over 60 looking as fresh at the end of the day as she did that morning, soft warm light, realistic lifestyle photography, no text in image
+
+===== 07-ket (20 prompts) =====
+Elegant full body portrait of Female model over 60 standing confidently in a well-fitted, well-chosen blouse, calm radiant expression, clean neutral background, editorial magazine style, no text in image
+Close-up portrait of Female model over 60 smiling gently at her own reflection, soft warm light, realistic emotional photography, no text in image
+Floating collection of a thin belt, a delicate necklace, and a seamless camisole arranged on a soft neutral background, minimalist editorial product photography, no text in image
+Female model over 60 standing tall in a sunlit doorway wearing a half-tucked, belted blouse, calm confident posture, realistic lifestyle photography, no text in image
+Portrait of Female model over 60 against a clean neutral background, with tasteful minimal text reading Style After 60 in a refined serif font in the corner, soft natural light, editorial magazine style
+Female model over 60 standing in her closet doorway, surveying a few well-chosen blouses with a satisfied expression, warm interior light, realistic lifestyle photography, no text in image
+Elegant portrait of Female model over 60 in a soft blouse with a delicate necklace, confident composed expression, clean neutral background, editorial magazine style, no text in image
+Female model over 60 laughing candidly mid-conversation, well-fitted blouse, natural realistic lifestyle photography, no text in image
+Wide shot of Female model over 60 walking through a sunlit plaza, quiet confidence, well-fitted blouse, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands giving a final smoothing touch to her blouse collar, warm light, realistic lifestyle photography, no text in image
+Three panel vertical story, first panel Female model over 60 choosing her blouse from the closet, second panel checking the mirror, third panel walking out the door with quiet confidence, warm soft lighting, realistic lifestyle photography, no text in image
+Female model over 60 sitting in a sunlit cafe, well-fitted belted blouse visible, relaxed confident posture, soft daylight, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body in her finished, put-together outfit, with a small zoomed inset detail of her necklace, editorial fashion photography, no text in image
+Low angle empowering shot of Female model over 60 standing tall in a well-fitted blouse, soft golden light, realistic lifestyle photography, no text in image
+Close-up genuine smile of Female model over 60 looking directly at the camera, warm natural light, editorial portrait photography, no text in image
+Female model over 60 standing confidently at a doorway about to step out, well-fitted blouse and tailored trousers, warm interior light, realistic lifestyle photography, no text in image
+Floating final moodboard of a thin belt, a delicate necklace, and a soft blouse fabric swatch arranged elegantly, editorial concept, no text in image
+Female model over 60 walking down a sunlit street with a friend, both dressed elegantly, candid realistic lifestyle photography, no text in image
+Final elegant wide portrait of Female model over 60, calm radiant confident expression, clean neutral background, editorial magazine style, no text in image
+Close-up portrait of Female model over 60 smiling warmly, soft golden hour light, editorial magazine style, no text in image
