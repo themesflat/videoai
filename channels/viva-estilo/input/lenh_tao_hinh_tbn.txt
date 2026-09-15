@@ -1,0 +1,57 @@
+Bây giờ cho tôi các câu lệnh tạo hình cho các phần, sau đây là các yêu cầu của tôi khi tạo câu lệnh tạo hình:
+- Người mẫu luôn là người Tây Ban Nha, bắt buộc phải là phụ nữ và trên 60 tuổi. Câu lệnh nào có người mẫu xuất hiện thì phải luôn có cụm từ "Female model over 60" bằng tiếng Anh nhé(cái này để tránh tạo ra hình có người mẫu là nam giới).
+- Hình có thể là hình các item được nhắc tới hoặc hình có người mẫu mang những item đó theo tỷ lệ: Cứ 3 hình có người mẫu thì 1 hình không có người mẫu mà chỉ có item đó hoặc set đồ có những item đó.
+- Content nào nói về những item mà phụ nữ không nên mang thì cũng không nên tạo hình xấu quá mức quá lố nhé, chỉ là sai nhẹ hoặc không tinh tế thôi, vì thực tế không ai ăn mặc tới mức quá xấu ra đường.
+- Khi tạo hãy dùng các ý tưởng sau để làm cho đa dạng hình:
+1. Split Layout (RẤT HIỆU QUẢ)(không text trong hình nhé)
+👉 1 bên lifestyle – 1 bên sản phẩm 
+Bố cục:
+Trái: người mẫu đang mặc outfit
+Phải: item (túi / giày / áo) chụp rõ
+👉 Dùng khi:
+Bạn muốn người xem “mua được”
+👉 Đây là layout các brand lớn dùng rất nhiều
+2. Before / After (CỰC HÚT VIEW) (chỉ có cụm Before / After thôi đừng thêm text khác và cũng ko cần thêm icon)
+👉 2 khung
+Trái: outfit bình thường
+Phải: outfit nâng cấp
+👉 Đánh vào tâm lý:
+“Ồ, tôi cũng có thể đẹp hơn”
+3. 3-Panel Story (Storytelling) (không text trong hình nhé)
+👉 Chia 3 phần ngang hoặc dọc
+Ví dụ:
+Đang chuẩn bị (soi gương)
+Đi ra ngoài
+Ngồi cafe
+👉 Tạo cảm giác “cuộc sống thật”
+4. Hero + Detail Zoom (RẤT PRO)(tạo ảnh mà ko có text Hero hoặc Detail Zoom)
+👉 1 ảnh lớn + 1-2 ảnh nhỏ zoom
+Ảnh chính: full body
+Ảnh phụ: zoom túi, giày, chất liệu
+👉 Giống magazine fashion
+5. Floating Items (High-end style) (không text trong hình nhé)
+Background clean
+👉 Nhìn rất editorial / luxury
+6. Text Overlay + Clean Layout
+👉 Rất hợp TikTok / Pinterest(nhưng ko tạo ảnh có các app này nhé)
+Ảnh người mẫu
+Thêm text:
+“Style after 50”
+“Elegant & timeless”
+👉 Nhưng:
+Font phải đẹp
+Đừng làm rối
+7. Moodboard Style (Designer dùng nhiều) (không text trong hình nhé)
+👉 Ghép nhiều layer:
+1 ảnh người mẫu
+1 texture (vải, màu)
+1 chi tiết nhỏ (close-up)
+1 background nhẹ
+👉 Tạo cảm giác “high fashion concept”
+
+Sau khi viết xong mỗi phần phải nói cho tôi biết vừa viết xong phần nào và sẽ viết tiếp phần nào.
+Mỗi phần tôi cần 20 câu lệnh nhưng mỗi lần hãy tạo cho tôi 10 câu để tôi duyệt rồi hãy tạo tiếp 10 câu tiếp theo để hoàn thành 1 phần nhé. Rồi sau đó mới đến 20 câu của phần tiếp theo.
+Bây giờ bắt đầu phần đầu tiên cho tôi nào.
+Viết vào trong khung để tôi dễ copy
+không cần đánh số thứ tự đầu câu lệnh
+không cần tỉ lệ hình

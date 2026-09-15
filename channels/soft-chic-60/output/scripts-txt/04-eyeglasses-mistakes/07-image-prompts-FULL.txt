@@ -1,0 +1,153 @@
+===== 00-hook (20 prompts) =====
+Female model over 60 putting on her glasses in front of a bathroom mirror in soft morning light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's eyes seen through her glasses lenses, warm natural light, realistic portrait photography, no text in image
+Female model over 60 reaching for her glasses on a nightstand first thing in the morning, soft light, realistic lifestyle photography, no text in image
+Floating collection of several eyeglass frames arranged in a row on a soft neutral background, minimalist editorial flat lay photography, no text in image
+Female model over 60 mid-conversation with a friend, glasses clearly visible on her face, warm daylight, realistic candid lifestyle photography, no text in image
+Three panel vertical story, first panel Female model over 60 waking up, second panel putting on her glasses at the mirror, third panel walking out the door, warm soft lighting, realistic lifestyle photography, no text in image
+Moodboard style layout with an eyeglass frame detail, a strand of silver hair, and warm neutral tones, editorial concept, no text in image
+Portrait of Female model over 60 glancing thoughtfully into a mirror while adjusting her glasses, clean neutral background, soft natural light, editorial magazine style, no text in image
+Close-up of Female model over 60's hands cleaning her glasses lenses with a cloth, soft indoor light, realistic lifestyle photography, no text in image
+Wide shot of Female model over 60 standing in her bedroom doorway, glasses on, morning light streaming in, realistic lifestyle photography, no text in image
+Female model over 60 sitting at a kitchen table with coffee, glasses on, soft daylight, realistic lifestyle photography, no text in image
+Close-up detail of an eyeglass frame resting on a nightstand beside a lamp, neutral warm light, editorial product photography, no text in image
+Female model over 60 laughing candidly with a friend at a cafe, glasses clearly framing her face, natural daylight, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's face, glasses reflecting soft window light, thoughtful expression, editorial portrait photography, no text in image
+Female model over 60 walking through a sunlit street wearing her glasses, golden hour light, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body in her everyday outfit and glasses, with a small zoomed inset detail of the frame, editorial fashion photography, no text in image
+Floating single eyeglass frame catching soft light against a plain neutral backdrop, minimalist editorial product photography, no text in image
+Female model over 60 standing before a mirror comparing her reflection with and without glasses, soft interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's silver-toned hair beside her glasses frame resting on a table, warm natural light, realistic detail photography, no text in image
+Editorial portrait of Female model over 60, composed thoughtful expression, glasses on, clean studio background, soft light, no text in image
+
+===== 01-mistake-1-frame-too-small (20 prompts) =====
+Female model over 60 wearing a small, narrow eyeglass frame that looks lost on her softened face, neutral expression, natural light, realistic portrait photography, no text in image
+Split screen image, left side Female model over 60 in a small narrow frame swallowed by her face, right side the same model in a larger frame sitting close to her brows, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of Female model over 60 trying on a larger eyeglass frame in front of a mirror, warm natural light, realistic lifestyle photography, no text in image
+Floating collection of a squarish neutral frame, a larger round frame, and a frame with a subtle metallic accent, arranged on a clean neutral background, minimalist editorial product photography, no text in image
+Female model over 60 at the office wearing a squarish neutral-tone eyeglass frame, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 running errands wearing a larger round eyeglass frame, natural daylight, realistic lifestyle photography, no text in image
+Female model over 60 dressed for an evening out, wearing a frame with a subtle metallic accent and a thin glasses chain, warm ambient light, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body wearing a properly sized frame, with a small zoomed inset detail of the frame sitting close to her brows, editorial fashion photography, no text in image
+Three panel vertical story, first panel Female model over 60 in a too-small frame, second panel trying on a larger one at the mirror, third panel confident in the new properly sized frame, warm soft lighting, realistic lifestyle photography, no text in image
+Close-up of a small eyeglass frame looking undersized against a softened jawline, neutral light, realistic detail photography, no text in image
+Female model over 60 standing before a mirror holding up two frames of different sizes, thoughtful expression, warm interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands fastening a thin glasses chain to her frame, soft natural light, realistic lifestyle photography, no text in image
+Floating thin glasses chain draped beside a larger eyeglass frame on a soft neutral background, minimalist editorial flat lay photography, no text in image
+Split screen close-up image, left side a small frame sitting low on the face, right side a larger frame sitting close to the brows, soft studio light, labeled only Before and After, no other text or icons
+Elegant portrait of Female model over 60 wearing a larger, well-proportioned eyeglass frame, composed confident expression, clean neutral background, editorial magazine style, no text in image
+Female model over 60 sitting at a cafe table wearing a bigger round frame, soft daylight, realistic lifestyle photography, no text in image
+Close-up candid smile of Female model over 60 looking in the mirror pleased with her new larger frame, soft warm light, realistic lifestyle photography, no text in image
+Moodboard style layout with a squarish frame, a round frame, a metallic-accent frame, and a glasses chain, editorial concept, no text in image
+Female model over 60 walking through a sunlit courtyard wearing a well-sized eyeglass frame, golden light, realistic lifestyle photography, no text in image
+Close-up detail of an eyeglass frame sitting perfectly close to the brow line, neutral warm light, editorial product photography, no text in image
+
+===== 02-mistake-2-frame-color-clash (20 prompts) =====
+Female model over 60 with silver hair wearing a dark brown eyeglass frame that clashes with her hair color, neutral light, realistic portrait photography, no text in image
+Split screen image, left side Female model over 60 with silver hair wearing a dark brown frame, right side the same model wearing a smoky grey frame that matches her hair, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of Female model over 60 comparing a dark brown frame against a smoky grey frame near a mirror, warm natural light, realistic lifestyle photography, no text in image
+Floating collection of a smoky grey frame, a pale tortoise frame, and a silver metallic frame arranged on a clean light background, editorial flat lay photography, no text in image
+Female model over 60 at the office wearing a smoky grey eyeglass frame, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 out running errands wearing a pale tortoise eyeglass frame, natural daylight, realistic lifestyle photography, no text in image
+Female model over 60 dressed for an evening event, wearing a silver metallic eyeglass frame with matching silver-tone earrings, warm ambient light, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body wearing a silver metallic frame, with a small zoomed inset detail of matching silver jewelry, editorial fashion photography, no text in image
+Three panel vertical story, first panel Female model over 60 in a clashing dark brown frame, second panel trying on a smoky grey frame, third panel confident with a frame that matches her silver hair, warm soft lighting, realistic lifestyle photography, no text in image
+Close-up of a dark brown eyeglass frame resting oddly against strands of silver hair, neutral light, realistic detail photography, no text in image
+Female model over 60 standing before a mirror holding a smoky grey frame up next to her face, warm interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands adjusting a silver-tone scarf that matches her metallic eyeglass frame, soft natural light, realistic lifestyle photography, no text in image
+Floating pale tortoise frame beside a silver-tone scarf and a smoky grey frame on a soft neutral background, minimalist editorial flat lay photography, no text in image
+Split screen close-up image, left side a warm brown frame clashing with silver hair, right side a pale tortoise frame blending softly with the same hair, soft studio light, labeled only Before and After, no other text or icons
+Elegant portrait of Female model over 60 wearing a pale tortoise eyeglass frame, composed confident expression, clean neutral background, editorial magazine style, no text in image
+Female model over 60 sitting at a cafe table wearing a smoky grey frame, soft daylight, realistic lifestyle photography, no text in image
+Close-up candid smile of Female model over 60 admiring her new frame color in a small handheld mirror, soft warm light, realistic lifestyle photography, no text in image
+Moodboard style layout with a smoky grey frame swatch, a silver metallic frame detail, and cool neutral tones, editorial concept, no text in image
+Female model over 60 walking through a sunlit plaza wearing a silver metallic eyeglass frame, golden light, realistic lifestyle photography, no text in image
+Close-up detail of a silver-tone frame catching light beside matching silver jewelry, neutral warm light, editorial product photography, no text in image
+
+===== 03-mistake-3-outdated-lens-tint (20 prompts) =====
+Close-up of Female model over 60's eyeglass lenses showing a faint yellowed, dulled tint, neutral light, realistic detail photography, no text in image
+Split screen image, left side close-up of Female model over 60's dull yellowed lenses, right side the same model with clear fresh lenses and bright visible eyes, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of Female model over 60 wiping her lenses with a dedicated lens cloth, soft window light, realistic lifestyle photography, no text in image
+Floating eyeglass frame with clear lenses beside a soft microfiber lens cloth on a clean neutral background, minimalist editorial product photography, no text in image
+Female model over 60 at the office under bright light, eyes clear and alert behind fresh anti-glare lenses, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 out running errands in bright sunlight, eyes clear behind fresh lenses, natural daylight, realistic lifestyle photography, no text in image
+Female model over 60 at an evening dinner table under warm restaurant lighting, eyes bright and clear behind fresh lenses, warm ambient light, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body, with a small zoomed inset detail of clear, glare-free lenses, editorial fashion photography, no text in image
+Three panel vertical story, first panel Female model over 60 with dull yellowed lenses, second panel an optician replacing the lenses, third panel her eyes bright and clear afterward, warm soft lighting, realistic lifestyle photography, no text in image
+Close-up of a scratched, dulled eyeglass lens catching light awkwardly, neutral light, realistic detail photography, no text in image
+Female model over 60 standing before a mirror examining her lenses closely, warm interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands holding a lens cloth beside a fresh eyeglass frame, soft natural light, realistic lifestyle photography, no text in image
+Floating lens cloth folded neatly beside a pair of eyeglasses with clear anti-glare lenses, minimalist editorial flat lay photography, no text in image
+Split screen close-up image, left side a scratched yellowed lens, right side a clear polished lens, soft studio light, labeled only Before and After, no other text or icons
+Elegant portrait of Female model over 60, eyes bright and clear through fresh lenses, composed confident expression, clean neutral background, editorial magazine style, no text in image
+Female model over 60 sitting at a cafe table in bright daylight, lenses clear and glare-free, soft daylight, realistic lifestyle photography, no text in image
+Close-up candid smile of Female model over 60 with clear, bright eyes behind fresh lenses, soft warm light, realistic lifestyle photography, no text in image
+Moodboard style layout with a clear lens detail, a lens cloth, and soft neutral tones, editorial concept, no text in image
+Female model over 60 walking through a sunlit street, eyes clear and bright behind fresh lenses, golden light, realistic lifestyle photography, no text in image
+Close-up detail of an optician holding a fresh eyeglass lens up to the light, neutral warm light, editorial product photography, no text in image
+
+===== 04-mistake-4-ill-fitting-nose-pads (20 prompts) =====
+Close-up of Female model over 60 pushing her glasses back up her nose mid-conversation, slightly distracted expression, natural light, realistic lifestyle photography, no text in image
+Split screen image, left side close-up of Female model over 60's glasses slipping down her nose with a faint red mark, right side the same model with glasses sitting perfectly in place, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of an optician gently adjusting the nose pads of an eyeglass frame, soft studio light, realistic lifestyle photography, no text in image
+Floating eyeglass frame with visible nose pads resting on a clean neutral background, minimalist editorial product photography, no text in image
+Female model over 60 at the office, glasses sitting perfectly in place after a professional adjustment, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 out running errands, glasses staying comfortably in place all day, natural daylight, realistic lifestyle photography, no text in image
+Female model over 60 at an evening dinner, glasses sitting securely without slipping, warm ambient light, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body, with a small zoomed inset detail of the nose pads sitting evenly against her skin, editorial fashion photography, no text in image
+Three panel vertical story, first panel Female model over 60 repeatedly pushing up slipping glasses, second panel an optician adjusting the nose pads, third panel her glasses staying perfectly in place, warm soft lighting, realistic lifestyle photography, no text in image
+Close-up of a faint red indentation mark on the bridge of a nose from ill-fitting glasses, neutral light, realistic detail photography, no text in image
+Female model over 60 sitting in an optician's chair having her glasses professionally adjusted, warm interior light, realistic lifestyle photography, no text in image
+Close-up of an optician's hands carefully bending the nose pads of a frame with a small tool, soft natural light, realistic lifestyle photography, no text in image
+Floating close-up of eyeglass nose pads and frame hinge on a soft neutral background, minimalist editorial flat lay photography, no text in image
+Split screen close-up image, left side glasses slipping down the nose, right side glasses sitting evenly and securely, soft studio light, labeled only Before and After, no other text or icons
+Elegant portrait of Female model over 60, glasses sitting comfortably and securely, composed confident expression, clean neutral background, editorial magazine style, no text in image
+Female model over 60 sitting at a dinner table, fully present in conversation, glasses staying perfectly in place, soft daylight, realistic lifestyle photography, no text in image
+Close-up candid smile of Female model over 60 not needing to adjust her glasses at all during a conversation, soft warm light, realistic lifestyle photography, no text in image
+Moodboard style layout with an eyeglass frame detail, nose pad close-up, and soft neutral tones, editorial concept, no text in image
+Female model over 60 walking confidently through a sunlit street, glasses secure and in place, golden light, realistic lifestyle photography, no text in image
+Close-up detail of a well-fitted eyeglass frame resting evenly on the bridge of the nose with no red marks, neutral warm light, editorial product photography, no text in image
+
+===== 05-mistake-5-reading-glasses-afterthought (20 prompts) =====
+Female model over 60 reaching for a worn, cheap pair of reading glasses scattered on a kitchen counter, natural light, realistic lifestyle photography, no text in image
+Split screen image, left side Female model over 60 with a plain bent drugstore reading frame, right side the same model wearing an attractive reading frame on a delicate glasses chain, natural light, realistic photography, labeled only Before and After, no other text or icons
+Close-up of Female model over 60 lifting a pair of reading glasses to her eyes by a delicate chain around her neck, soft window light, realistic lifestyle photography, no text in image
+Floating collection of an attractive reading frame, a foldable reading frame in a small case, and a slim glasses chain on a clean neutral background, minimalist editorial product photography, no text in image
+Female model over 60 at home reading a book, wearing an attractive reading frame on a slim delicate chain, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 at work pulling a foldable reading frame from a small case in her bag, soft daylight, realistic lifestyle photography, no text in image
+Female model over 60 reading a menu at an evening dinner, wearing a reading frame with a subtle patterned accent, warm ambient light, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body, with a small zoomed inset detail of the glasses chain resting on her collarbone, editorial fashion photography, no text in image
+Three panel vertical story, first panel Female model over 60 with scattered cheap reading glasses around the house, second panel choosing one attractive frame and a chain, third panel confidently reading with the chain around her neck, warm soft lighting, realistic lifestyle photography, no text in image
+Close-up of several mismatched, worn reading glasses scattered across a nightstand and counter, neutral light, realistic detail photography, no text in image
+Female model over 60 standing before a mirror choosing between old plain readers and a new attractive frame, warm interior light, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands folding a compact reading frame into a small stylish case, soft natural light, realistic lifestyle photography, no text in image
+Floating slim glasses chain draped elegantly beside an attractive reading frame, minimalist editorial flat lay photography, no text in image
+Split screen close-up image, left side plain scattered drugstore readers, right side one elegant reading frame on a chain, soft studio light, labeled only Before and After, no other text or icons
+Elegant portrait of Female model over 60 wearing reading glasses on a delicate chain, composed confident expression, clean neutral background, editorial magazine style, no text in image
+Female model over 60 sitting at a cafe table reading a menu with an attractive reading frame, soft daylight, realistic lifestyle photography, no text in image
+Close-up candid smile of Female model over 60 lifting her reading glasses to her eyes with quiet confidence, soft warm light, realistic lifestyle photography, no text in image
+Moodboard style layout with a patterned-accent reading frame, a foldable case, a delicate chain, and warm neutral tones, editorial concept, no text in image
+Female model over 60 walking through her sunlit living room, reading glasses on a chain resting at her collarbone, golden light, realistic lifestyle photography, no text in image
+Close-up detail of a stylish reading frame with a subtle patterned temple accent resting beside a slim chain, neutral warm light, editorial product photography, no text in image
+
+===== 06-ket (20 prompts) =====
+Elegant full body portrait of Female model over 60 standing confidently in a well-chosen eyeglass frame, calm radiant expression, clean neutral background, editorial magazine style, no text in image
+Close-up portrait of Female model over 60 smiling gently at her own reflection, glasses framing her face beautifully, soft warm light, realistic emotional photography, no text in image
+Floating collection of a well-sized frame, a smoky grey frame, a glasses chain, and a lens cloth arranged on a soft neutral background, minimalist editorial product photography, no text in image
+Female model over 60 standing tall in a sunlit doorway wearing a perfectly fitted, well-chosen eyeglass frame, calm confident posture, realistic lifestyle photography, no text in image
+Portrait of Female model over 60 against a clean neutral background, with tasteful minimal text reading Style After 60 in a refined serif font in the corner, soft natural light, editorial magazine style
+Female model over 60 standing in front of a mirror, surveying a few well-chosen eyeglass frames with a satisfied expression, warm interior light, realistic lifestyle photography, no text in image
+Elegant portrait of Female model over 60 wearing a silver metallic frame with a delicate glasses chain, confident composed expression, clean neutral background, editorial magazine style, no text in image
+Female model over 60 laughing candidly mid-conversation, glasses perfectly in place, natural realistic lifestyle photography, no text in image
+Wide shot of Female model over 60 walking through a sunlit plaza, quiet confidence, well-chosen eyeglass frame, realistic lifestyle photography, no text in image
+Close-up of Female model over 60's hands giving a final adjustment to her glasses before heading out, warm light, realistic lifestyle photography, no text in image
+Three panel vertical story, first panel Female model over 60 choosing her frame from a small collection, second panel checking the mirror, third panel walking out the door with quiet confidence, warm soft lighting, realistic lifestyle photography, no text in image
+Female model over 60 sitting in a sunlit cafe, well-fitted eyeglass frame visible, relaxed confident posture, soft daylight, realistic lifestyle photography, no text in image
+Hero shot of Female model over 60 full body in her finished, put-together look, with a small zoomed inset detail of her glasses frame, editorial fashion photography, no text in image
+Low angle empowering shot of Female model over 60 standing tall, well-chosen eyeglass frame, soft golden light, realistic lifestyle photography, no text in image
+Close-up genuine smile of Female model over 60 looking directly at the camera, glasses framing her eyes beautifully, warm natural light, editorial portrait photography, no text in image
+Female model over 60 standing confidently at a doorway about to step out, well-fitted frame and a glasses chain, warm interior light, realistic lifestyle photography, no text in image
+Floating final moodboard of a well-sized frame, a silver-tone glasses chain, and a soft lens cloth arranged elegantly, editorial concept, no text in image
+Female model over 60 walking down a sunlit street with a friend, both wearing well-chosen eyeglass frames, candid realistic lifestyle photography, no text in image
+Final elegant wide portrait of Female model over 60, calm radiant confident expression, clean neutral background, editorial magazine style, no text in image
+Close-up portrait of Female model over 60 smiling warmly, glasses catching the golden hour light, soft light, editorial magazine style, no text in image
